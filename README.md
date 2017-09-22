@@ -28,3 +28,4 @@ class 3
  
 #homeWork
 make some cool components
+someThing like this : [myloadingCircle](https://jsbin.com/cicuwef/5/edit?css,output)
